@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing bills",
+      "details": "Lorem ipsum dolor",
+      "complete": true
+    },
+    {
+      "title": "make a new website",
+      "details": "this is test doc",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Shopping some grocery",
+      "details": "and eat them",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
