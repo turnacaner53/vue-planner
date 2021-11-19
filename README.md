@@ -16,7 +16,8 @@ npm run build
 ```
 
 ### Note
-this project belongs to Shaun Pelling. Check out udemy course for more informations (https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/)
+this project belongs to Shaun Pelling. Check out udemy course for more informations 
+https://www.udemy.com/course/build-web-apps-with-vuejs-firebase/
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
